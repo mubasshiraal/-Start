@@ -1,0 +1,81 @@
+ body{
+     font-family : cursive ;
+     color: #000000 ;
+     line-height : 70px ;
+     background-color: #c0c0c0;
+}
+ 
+.purple-color{
+    color : #8845f4 ;
+}
+
+.red{
+    color : #8b0000 ;
+}
+
+.green{
+    color : #008000 ;
+}
+
+.half-width{
+    width : 50% ;
+    float : left ;
+}
+
+.half-widths{
+    width : 50% ;
+    float: right;
+    padding-top: 50px;
+}
+
+.side-img{
+    float : right ;
+    width : 90% ;
+    padding-right: 15px;
+}
+
+.primary-btn{
+    color : white ;
+    background-color : #00008b ;
+    padding : 13px 42px 13px 42px ;
+    border-radius : 30px ;
+    text-decoration : none ;
+    font-size : 1.8em ;
+}
+
+ h1{
+     font-size : 4.1em ;
+}
+ 
+.container{
+    padding-left : 2% ;
+    display : inline-block ;
+}
+
+.experiences{
+    padding : 20px ;
+    margin : 30px ;
+    border-radius : 20px ;
+}
+
+.experience-item{
+    padding : 10px ;
+    border-left : 1px solid rgba(137,130,247,0.8) ;
+}
+
+ h2{ 
+    font-size : 3em ;
+}
+  
+ h3{
+    font-size : 2.5em ;
+}
+
+ h4{
+    font-size : 2em ;
+}
+ 
+ p{
+   font-size : 1.5em ;
+}
+ 
